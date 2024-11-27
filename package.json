@@ -13,6 +13,7 @@
   "description": "",
   "dependencies": {
     "dat.gui": "^0.7.9",
+    "render": "^0.1.4",
     "three": "^0.170.0",
     "vite": "^5.4.11"
   }
